@@ -1,0 +1,6 @@
+# Spring Boot
+job-service/src/main/resources/application.properties
+company-service/src/main/resources/application.properties
+review-service/src/main/resources/application.properties
+ docker-compose.yml
+ 
